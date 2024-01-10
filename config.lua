@@ -90,7 +90,7 @@ Config.Disable = {
 }
 
 Config.Consumables = {
-    eat = { -- default food items
+    --[[eat = { -- default food items
         ['sandwich'] = math.random(35, 54),
         ['tosti'] = math.random(40, 50),
         ['twerks_candy'] = math.random(35, 54),
@@ -131,7 +131,7 @@ Config.Consumables = {
         --         server = false -- if the event above is a server event
         --     }
         -- }
-    }
+    }]]
 }
 
 Config.Fireworks = {
