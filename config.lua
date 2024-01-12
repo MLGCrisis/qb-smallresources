@@ -89,7 +89,7 @@ Config.Disable = {
     driveby = false,                                              -- disables driveby
 }
 
-Config.Consumables = {
+Config.Consumables = { --removed for devcore needs
     --[[eat = { -- default food items
         ['sandwich'] = math.random(35, 54),
         ['tosti'] = math.random(40, 50),
