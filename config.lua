@@ -90,21 +90,21 @@ Config.Disable = {
 }
 
 Config.Consumables = { --removed for devcore needs
-    --[[eat = { -- default food items
-        ['sandwich'] = math.random(35, 54),
-        ['tosti'] = math.random(40, 50),
-        ['twerks_candy'] = math.random(35, 54),
-        ['snikkel_candy'] = math.random(40, 50)
+    eat = { -- default food items
+        --['sandwich'] = math.random(35, 54),
+        --['tosti'] = math.random(40, 50),
+        --['twerks_candy'] = math.random(35, 54),
+        --['snikkel_candy'] = math.random(40, 50)
     },
     drink = { -- default drink items
-        ['water_bottle'] = math.random(35, 54),
-        ['kurkakola'] = math.random(35, 54),
-        ['coffee'] = math.random(40, 50)
+        --['water_bottle'] = math.random(35, 54),
+        --['kurkakola'] = math.random(35, 54),
+        --['coffee'] = math.random(40, 50)
     },
     alcohol = { -- default alcohol items
-        ['whiskey'] = math.random(20, 30),
-        ['beer'] = math.random(30, 40),
-        ['vodka'] = math.random(20, 40),
+        --['whiskey'] = math.random(20, 30),
+        --['beer'] = math.random(30, 40),
+        --['vodka'] = math.random(20, 40),
     },
     custom = { -- put any custom items here
         -- ['newitem'] = {
@@ -131,7 +131,7 @@ Config.Consumables = { --removed for devcore needs
         --         server = false -- if the event above is a server event
         --     }
         -- }
-    }]]
+    }
 }
 
 Config.Fireworks = {
