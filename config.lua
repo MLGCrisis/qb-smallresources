@@ -50,7 +50,7 @@ Config.AIResponse = {
 -- To Set This Up visit https://forum.cfx.re/t/how-to-updated-discord-rich-presence-custom-image/157686
 Config.Discord = {
     isEnabled = true,                                     -- If set to true, then discord rich presence will be enabled
-    applicationId = '00000000000000000',                   -- The discord application id
+    applicationId = '1198522789838196817',                   -- The discord application id
     iconLarge = 'logo_name',                               -- The name of the large icon
     iconLargeHoverText = 'MLGC FiveM Roleplay Server', -- The hover text of the large icon
     iconSmall = 'small_logo_name',                         -- The name of the small icon
